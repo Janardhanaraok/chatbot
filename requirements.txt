@@ -4,5 +4,6 @@ pandas
 pdfplumber
 tabulate
 openpyxl
+pytesseract
 
 
